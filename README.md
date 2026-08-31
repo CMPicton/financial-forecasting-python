@@ -33,6 +33,8 @@ The fitted RNOA regression reported essentially **zero R-squared**, indicating t
 
 For EPS, the reported mean forecast-error figures were lowest for the three-year and five-year moving-average models relative to the random-walk alternatives, but the pairwise t-tests in the project did **not** establish statistically significant superiority at a conventional 5% level.
 
+**Figure 2. Correlation heatmap of selected financial ratios.**
+
 ![Financial-ratio correlation matrix](images/financial_ratio_correlation.png)
 
 ## Repository structure
